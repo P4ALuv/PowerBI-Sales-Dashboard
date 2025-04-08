@@ -25,7 +25,6 @@ This Power BI dashboard analyzes a Superstore dataset to uncover sales trends, r
 - `measures.dax`: DAX measures used for KPI calculations
 - `transformations.m`: Power Query M script for data cleaning
 - `project_steps.md`: Step-by-step workflow documentation
-- `README_zh.md`: 中文项目说明文档
 - `README.md`: This file
 
 ## 🛠 Tools Used
