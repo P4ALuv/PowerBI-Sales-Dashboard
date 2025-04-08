@@ -32,7 +32,6 @@ This document outlines the hands-on steps I followed to build the Power BI sales
 4. **Documentation & Sharing**
    - Exported DAX measures and Power Query steps
    - Created English and Chinese README files
-   - Generated dashboard screenshots
    - Packaged everything into a GitHub-friendly format
 
-> This project demonstrates real Power BI skills including data shaping (M), DAX calculations, dashboard design, and reporting.
+> This project demonstrates Power BI skills including data shaping (M), DAX calculations, dashboard design, and reporting.
